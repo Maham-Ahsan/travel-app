@@ -1,3 +1,4 @@
+'use client'
 import { Html, Head, Main, NextScript } from "next/document";
 import type { Metadata } from "next";
 import localFont from "next/font/local";
